@@ -22,9 +22,6 @@ Values
 
 SELECT * FROM list;
 
-DELETE FROM List
-WHERE Task_no=1;
-
 
 
 
